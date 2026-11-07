@@ -1,2 +1,1 @@
-# DarkCube
-Ос
+![](logo.jpg)

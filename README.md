@@ -3,6 +3,6 @@
   <img src="img/logo.png" alt="Логотип" width="200">
 </p>
 <p align="center">
-  <hr color="purple" width="150%">
+  <hr color="purple" width="100%">
 </p>
 

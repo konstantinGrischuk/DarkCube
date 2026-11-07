@@ -4,6 +4,6 @@
 
 <hr style="border: 1px solid #8A2BE2; width: 100%;">
 <strong>Релизы<strong><br>
-Docker container<br>
-Core<br>
-Desktop
+- Docker container<br>
+- Core<br>
+- Desktop
